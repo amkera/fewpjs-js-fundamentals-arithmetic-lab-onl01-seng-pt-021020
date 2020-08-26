@@ -8,3 +8,5 @@ let random = Math.floor(Math.random() * 20) + 1;
 //random number between 1 and 20
 
 let mod = 104%10;
+
+let max = Math.max(1, 3, 5, 6, 8, 20)
